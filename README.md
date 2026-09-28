@@ -134,6 +134,6 @@ git init
 git add .
 git commit -m "feat: initial commit of Air Cargo Route Optymyzer dashboard"
 git branch -M main
-git remote add origin <YOUR GITHUB REPOSITORY>
+git remote add origin https://github.com/nithishs1729/AirCargo-Optymyzer.git
 git push -u origin main
 ```
