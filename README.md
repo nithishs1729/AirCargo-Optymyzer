@@ -5,6 +5,9 @@ An interactive, multi-objective decision-support dashboard for airline logistics
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tech: HTML5, JavaScript, CSS](https://img.shields.io/badge/Tech-HTML5%20%7C%20JavaScript%20%7C%20CSS-orange.svg)](#technology-stack)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-1877F2.svg)](#getting-started)
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000.svg)](https://aircargo-optymyzer.vercel.app/)
+
+**Live dashboard:** [aircargo-optymyzer.vercel.app](https://aircargo-optymyzer.vercel.app/)
 
 ## Overview
 
@@ -114,7 +117,8 @@ This project does **not** currently use Tailwind CSS or D3.js; its styling is cu
 ├── .gitignore
 ├── index.html
 ├── LICENSE
-└── README.md
+├── README.md
+└── vercel.json
 ```
 
 ## License
